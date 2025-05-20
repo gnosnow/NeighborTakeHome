@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeighborTakeHome", "NeighborTakeHome\NeighborTakeHome.csproj", "{E52E5F07-CC3C-49BE-BB13-C69361291C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E52E5F07-CC3C-49BE-BB13-C69361291C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52E5F07-CC3C-49BE-BB13-C69361291C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52E5F07-CC3C-49BE-BB13-C69361291C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52E5F07-CC3C-49BE-BB13-C69361291C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C4CF1A9-DB22-46DD-8356-3801DAB8F371}
+	EndGlobalSection
+EndGlobal
