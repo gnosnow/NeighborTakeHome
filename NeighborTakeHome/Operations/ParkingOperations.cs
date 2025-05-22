@@ -74,7 +74,8 @@ namespace NeighborTakeHome.Operations
                 }
             }
             // Sort by total price cheapest first
-            return cheapestPaths.OrderBy(x => x.total_price_in_cents).ToList();
+            cheapestPaths.Sort((a, b) => a.total_price_in_cents.CompareTo(b.total_price_in_cents));
+            return cheapestPaths;
         }
     }
 }
