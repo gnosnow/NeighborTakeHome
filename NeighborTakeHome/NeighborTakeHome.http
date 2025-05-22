@@ -1,6 +1,6 @@
 @NeighborTakeHome_HostAddress = http://localhost:5096
 
-GET {{NeighborTakeHome_HostAddress}}/weatherforecast/
+GET {{NeighborTakeHome_HostAddress}}/
 Accept: application/json
 
 ###
